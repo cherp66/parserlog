@@ -1,0 +1,1076 @@
+2021/09/24 13:53:30 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:53:31 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:53:32 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:53:33 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:53:34 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:53:35 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:53:36 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:54:23 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:54:24 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:54:28 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:41 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:42 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:43 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:43 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:44 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:45 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 13:57:46 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:32:30 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:33:55 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:36:59 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:37:23 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:41:00 [error] [exception.CException] CException: ApachelogController and its behaviors do not have a method or closure named "access". in C:\OpenServer\domains\taxi\framework\base\CComponent.php:266
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): CComponent->__call()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:41:41 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1. The SQL statement executed was: SELECT COUNT(*) FROM `User` `t` WHERE token=?.
+2021/09/24 21:41:41 [error] [exception.CDbException] CDbException: CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 in C:\OpenServer\domains\taxi\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\db\CDbCommand.php(433): CDbCommand->queryInternal()
+#1 C:\OpenServer\domains\taxi\framework\db\ar\CActiveRecord.php(1609): CDbCommand->queryScalar()
+#2 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(43): CActiveRecord->count()
+#3 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): ApachelogController->checkAccess()
+#4 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#7 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#8 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#9 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 21:41:56 [error] [system.db.CDbCommand] CDbCommand::fetchColumn() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1. The SQL statement executed was: SELECT COUNT(*) FROM `User` `t` WHERE token=?.
+2021/09/24 21:41:56 [error] [exception.CDbException] CDbException: CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1 in C:\OpenServer\domains\taxi\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\db\CDbCommand.php(433): CDbCommand->queryInternal()
+#1 C:\OpenServer\domains\taxi\framework\db\ar\CActiveRecord.php(1609): CDbCommand->queryScalar()
+#2 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(43): CActiveRecord->count()
+#3 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(23): ApachelogController->checkAccess()
+#4 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#6 C:\OpenServer\domains\taxi\framework\web\CController.php(286): CController->runAction()
+#7 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#8 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#9 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#12 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 22:08:04 [error] [php] Declaration of ApachelogController::filterAccessControl() should be compatible with CController::filterAccessControl($filterChain) (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:22)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(354): require()
+#1 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(276): CWebApplication->createController()
+#2 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#3 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#4 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/
+2021/09/24 22:38:15 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:38:16 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:39:20 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:39:34 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:39:58 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:39:59 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:40:14 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:23)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:40:49 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:24)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): ApachelogController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): ApachelogController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/content
+2021/09/24 22:55:02 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:05 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:06 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:06 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:07 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:07 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:07 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:55:22 [error] [php] Trying to access array offset on value of type null (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:31)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/24 22:56:37 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:40 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:41 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:43 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:43 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:43 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:43 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:44 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:44 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:44 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:56:44 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:57:29 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:57:31 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:57:41 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:57:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:57:42 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:57:43 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#8 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#9 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:58:02 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:58:03 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 22:58:04 [error] [php] Array to string conversion (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:20)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\AuthController.php(20): array_unique()
+#1 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogin()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CWebApplication->run()
+REQUEST_URI=/login
+2021/09/24 23:02:46 [error] [exception.CException] CException: Property "ApachelogController.post" is not defined. in C:\OpenServer\domains\taxi\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(24): CComponent->__set()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 23:02:47 [error] [exception.CException] CException: Property "ApachelogController.post" is not defined. in C:\OpenServer\domains\taxi\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(24): CComponent->__set()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 23:04:20 [error] [exception.CException] CException: Property "ApachelogController.post" is not defined. in C:\OpenServer\domains\taxi\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(24): CComponent->__set()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/24 23:04:37 [error] [exception.CException] CException: Property "ApachelogController.post" is not defined. in C:\OpenServer\domains\taxi\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(24): CComponent->__set()
+#1 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#6 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#8 C:\OpenServer\domains\taxi\public\index.php(13): CApplication->run()
+#9 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/25 08:51:01 [error] [php] Creating default object from empty value (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:44)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(5): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/25 08:51:05 [error] [php] Creating default object from empty value (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:44)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(5): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/25 08:51:06 [error] [php] Creating default object from empty value (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:44)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(5): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/25 08:51:49 [error] [php] Creating default object from empty value (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:44)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(5): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/25 08:52:32 [error] [php] Creating default object from empty value (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:44)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(5): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/25 08:53:48 [error] [php] Creating default object from empty value (C:\OpenServer\domains\taxi\protected\controllers\AuthController.php:44)
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): AuthController->actionLogout()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\CController.php(286): AuthController->runAction()
+#3 C:\OpenServer\domains\taxi\framework\web\CController.php(265): AuthController->runActionWithFilters()
+#4 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): AuthController->run()
+#5 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#6 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#7 C:\OpenServer\domains\taxi\public\index.php(5): CWebApplication->run()
+REQUEST_URI=/logout
+2021/09/25 08:59:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/axios.min.map". in C:\OpenServer\domains\taxi\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#1 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\taxi\public\index.php(5): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/axios.min.map
+---
+2021/09/25 09:00:03 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/axios.min.map". in C:\OpenServer\domains\taxi\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#1 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\taxi\public\index.php(5): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/axios.min.map
+---
+2021/09/25 09:02:20 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/axios.min.map". in C:\OpenServer\domains\taxi\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#1 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\taxi\public\index.php(5): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/axios.min.map
+---
+2021/09/25 09:02:27 [error] [exception.CHttpException.404] CHttpException: Unable to resolve the request "js/axios.min.map". in C:\OpenServer\domains\taxi\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#1 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#2 C:\OpenServer\domains\taxi\public\index.php(5): CApplication->run()
+#3 {main}
+REQUEST_URI=/js/axios.min.map
+---
+2021/09/25 09:16:51 [error] [exception.Error] Error: Call to undefined method LogReader::getAllLogs() in C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:50
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): CController->runAction()
+#3 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(34): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#5 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#6 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#8 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#9 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\OpenServer\domains\taxi\public\index.php(5): CApplication->run()
+#12 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
+2021/09/25 09:16:53 [error] [exception.Error] Error: Call to undefined method LogReader::getAllLogs() in C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php:50
+Stack trace:
+#0 C:\OpenServer\domains\taxi\framework\web\actions\CInlineAction.php(49): ApachelogController->actionContent()
+#1 C:\OpenServer\domains\taxi\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(134): CController->runAction()
+#3 C:\OpenServer\domains\taxi\protected\controllers\ApachelogController.php(34): CFilterChain->run()
+#4 C:\OpenServer\domains\taxi\framework\web\filters\CInlineFilter.php(58): ApachelogController->filterAccessToken()
+#5 C:\OpenServer\domains\taxi\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter()
+#6 C:\OpenServer\domains\taxi\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\OpenServer\domains\taxi\framework\web\CController.php(265): CController->runActionWithFilters()
+#8 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(282): CController->run()
+#9 C:\OpenServer\domains\taxi\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#10 C:\OpenServer\domains\taxi\framework\base\CApplication.php(185): CWebApplication->processRequest()
+#11 C:\OpenServer\domains\taxi\public\index.php(5): CApplication->run()
+#12 {main}
+REQUEST_URI=/content
+HTTP_REFERER=http://taxi/
+---
