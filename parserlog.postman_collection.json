@@ -1,0 +1,55 @@
+{
+	"info": {
+		"_postman_id": "1e8fd9c4-0180-4c63-b1b2-31ab854cd1b8",
+		"name": "parserlog",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://parserlog/login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"username\":\"demo\", \"password\":\"demo\"}"
+				},
+				"url": {
+					"raw": "http://parserlog/login",
+					"protocol": "http",
+					"host": [
+						"parserlog"
+					],
+					"path": [
+						"login"
+					]
+				},
+				"description": "Авторизация"
+			},
+			"response": []
+		},
+		{
+			"name": "http://parserlog/content",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"token\":\"29e4c04818732502a0905e2d549eb3a7\"}"
+				},
+				"url": {
+					"raw": "http://parserlog/content",
+					"protocol": "http",
+					"host": [
+						"parserlog"
+					],
+					"path": [
+						"content"
+					]
+				},
+				"description": "Получить контент"
+			},
+			"response": []
+		}
+	]
+}
